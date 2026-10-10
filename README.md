@@ -84,5 +84,9 @@ More on my [portfolio](https://lucklegend.github.io/).
 </p>
 
 <p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lucklegend&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucklegend&label=Profile%20views&color=2F81F7&style=flat" alt="Profile views" />
 </p>
